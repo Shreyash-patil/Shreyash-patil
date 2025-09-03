@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at https://github.com/Shreyash-patil<br><br>📫 How to reach me shreyash.n.patil123@gmail.com<br><br>📄 Know about my experiences [https://shreyash_n_pati1.hackerresume.io/97a91121-d71e-4353-b872-e6faf4dd25d8](https://shreyash_n_pati1.hackerresume.io/97a91121-d71e-4353-b872-e6faf4dd25d8)
+🌱<br>👨‍💻 All of my projects are available at https://github.com/Shreyash-patil<br><br>📫 How to reach me shreyash.n.patil123@gmail.com<br><br>📄 Know about my experiences [https://shreyash_n_pati1.hackerresume.io/97a91121-d71e-4353-b872-e6faf4dd25d8](https://shreyash_n_pati1.hackerresume.io/97a91121-d71e-4353-b872-e6faf4dd25d8)
 
 
 ## 🌐 Socials:
